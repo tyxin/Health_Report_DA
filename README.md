@@ -3,7 +3,7 @@ Effect of Air Quality and Pollution on Health Issues
 
 
 ## Usage
-Download and view the file `/Project Report.html`
+Download and view the file `Project Report.html`
 
 ## Contributing
 I am not accepting collaborations at this time. Feel free to fork this repository and make your own changes!
